@@ -2,7 +2,7 @@
 title: Cristian D'Ortona
 description: Jekyll Theme Minimal Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "cdortona.com" 
 
 # User settings
 username: Cristian D'Ortona
